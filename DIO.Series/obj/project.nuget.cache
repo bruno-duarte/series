@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oFvsSkv3UEkLfQdW38hW5mgfVLZAaJ3SghDtqWisbD6dZmSpYbMuGRAT59aA5de4mCQNRWA8bX9wL8STqEtMHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fbrun\\source\\repos\\DIO.Series\\DIO.Series\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fbrun\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
